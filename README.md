@@ -11,4 +11,4 @@ Data source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 Badge | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/raj-kumar-pal-280895159/`
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/raj-kumar-pal`
